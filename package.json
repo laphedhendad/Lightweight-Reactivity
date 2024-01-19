@@ -1,11 +1,9 @@
-﻿﻿{
-  "name": "com.laphed.rx",
-  "displayName": "LaphedRx",
-  "author": { "name": "Laphed Hendad", "url": "https://github.com/laphedhendad" },
-  "version": "1.0.0",
-  "unity": "2020.1",
-  "description": "Lightweight reactivity for Unity",
-  "license": "MIT",
-  "dependencies": {},
-  "repository": "https://github.com/laphedhendad/com.laphed.rx.git"
+﻿{
+    "name": "com.laphed.rx",
+    "displayName": "LaphedRx",
+    "version": "1.0.0",
+    "unity": "2020.1",
+    "description": "Lightweight reactivity for Unity",
+    "license": "MIT",
+    "dependencies": {}
 }
