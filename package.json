@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "unity": "2020.1",
   "description": "Lightweight reactivity for Unity",
-  "keywords": [ "reactivity", "rx"],
+  "keywords": ["reactivity", "rx"],
   "license": "MIT",
   "category": "Pattern",
   "dependencies": {}
