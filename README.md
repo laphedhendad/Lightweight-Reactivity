@@ -1,6 +1,6 @@
 # Lightweight reactivity for Unity
 
-# Installation
+## Installation
 
   * Via .unitypackage file:
 
