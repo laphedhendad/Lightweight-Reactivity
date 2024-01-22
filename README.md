@@ -4,16 +4,16 @@
 
   * Via .unitypackage file:
 
-    Download package from [releases page](https://github.com/laphedhendad/com.laphed.reactivity/releases).
+    Download package from [releases page](https://github.com/laphedhendad/Lightweight-Reactivity/releases).
     Add to project with Assets/Import Package/Custom Package...
     
   * Via git URL:
 
     Open Window/Package Manager and choose +/Add package from git URL...
     
-    Set `https://github.com/laphedhendad/com.laphed.reactivity.git` as URL.
+    Set `https://github.com/laphedhendad/Lightweight-Reactivity.git` as URL.
 
-    If you want to set a target version, UI Framework uses the \*.\*.\* release tag so you can specify a version like #1.0.0. For example `https://github.com/laphedhendad/com.laphed.reactivity.git#1.0.0`.
+    If you want to set a target version, UI Framework uses the \*.\*.\* release tag so you can specify a version like #1.0.0. For example `https://github.com/laphedhendad/Lightweight-Reactivity.git#1.0.0`.
 
 # Documentation
 
